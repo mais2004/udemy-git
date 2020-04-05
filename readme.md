@@ -1,5 +1,5 @@
 ## New Course
-### Fist Project
+### First Project
 
 Name:Mais
 Note:Be Happyss
